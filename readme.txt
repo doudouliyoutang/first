@@ -1,2 +1,2 @@
-version 2
-second type
+version 3
+third type
